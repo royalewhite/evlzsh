@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+printf '\n👾 EVLZSH command interface\n'
+printf 'The CLI is under development.\n\n'
+
+exit 2

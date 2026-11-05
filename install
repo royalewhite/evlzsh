@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+printf '\n👾 EVLZSH installer\n'
+printf 'The installer is under development.\n'
+printf 'No system changes have been made.\n\n'
+
+exit 2

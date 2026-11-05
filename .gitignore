@@ -1,0 +1,35 @@
+# Temporary files
+*.tmp
+*.temp
+*.log
+*~
+
+# Editor backups
+*.swp
+*.swo
+*.bak
+*.before_*
+
+# Local environment
+.env
+.env.*
+!.env.example
+
+# Credentials and private material
+credentials
+credentials.*
+secrets
+secrets.*
+id_rsa
+id_ed25519
+*.pem
+*.key
+
+# OS/editor metadata
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Git-generated artifacts
+coverage/
